@@ -1,0 +1,9 @@
+fastapi==0.115.6
+uvicorn>=0.30.0
+sqlalchemy==2.0.36
+groq==0.15.0
+python-dotenv==1.0.1
+pydantic==2.10.5
+pydantic-settings==2.7.0
+passlib[argon2, bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
